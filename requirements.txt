@@ -1,0 +1,6 @@
+langgraph>=1.0,<2.0
+langchain-openai>=1.0,<2.0
+python-dotenv>=1.0,<2.0
+portkey-ai
+langchain-aws>=1.0,<2.0
+botocore[crt]
